@@ -1,4 +1,15 @@
-# coa95478e859b38c3cc5f954d
+# Password Generator Project
+
+This was another solo project.
+Design was provided on figma
+I had to build from scratch by looking at the figma design
+
+I hope to improve on its features in th nearest future.
+I have created a very basic pasword generator.
+On each click, you get 2 randomly created paswords
+Length of password is 12
+
+Refresh to restart genration of passwords.
 
 ## About Scrimba
 
